@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="rango_edad">
+        <item>Niño</item>
+        <item>Joven</item>
+        <item>Adulto</item>
+        <item>Mayor</item>
+    </string-array>
+</resources>
